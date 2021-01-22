@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Kunal
-#### A CSE guy who loves developing stuffs.
+<h2 align="center"> Hi there 👋, my name is Kunal</h2>
+<h3 align="center">A CSE guy who loves developing stuffs.</h3>
 ![A CSE guy who loves developing stuffs.](https://github.com/imkunalkumar/CGPA-Calculator/blob/master/img/csenews.PNG)
 
 “One hour per day of study in your chosen field is all it takes. One hour per day of study will put you at the top of your field within three years. Within five years you’ll be a national authority. In seven years, you can be one of the best people in the world at what you do.”
